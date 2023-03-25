@@ -1,0 +1,20 @@
+<student>
+    <name>John Week</name>
+    <age>17</age>
+    <is_studying>false</is_studying>
+    <address>
+        <street>1 Main St</street>
+        <city>San Francisco</city>
+        <country>USA</country>
+    </address>
+    <phone_numbers>
+        <phone_number>
+            <type>home</type>
+            <number>778-1234</number>
+        </phone_number>
+        <phone_number>
+            <type>cell</type>
+            <number>+1277235678</number>
+        </phone_number>
+    </phone_numbers>
+</student>
