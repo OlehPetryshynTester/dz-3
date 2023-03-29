@@ -1,0 +1,20 @@
+{
+  "name": "Tom Roy",
+  "age": 20,
+  "is_studying": true,
+  "address": {
+    "street": "12 Main St",
+    "city": "NewYork",
+    "country": "USA"
+  },
+  "phone_numbers": [
+    {
+      "type": "home",
+      "number": "555-1234"
+    },
+    {
+      "type": "cell",
+      "number": "+1345555678"
+    }
+  ]
+}
